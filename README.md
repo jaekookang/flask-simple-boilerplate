@@ -15,3 +15,17 @@
 └── templates
     └── index.html
 ```
+
+## How to use:
+
+### 1. Clone this git repository
+
+```bash
+git clone https://github.com/jaekookang/flask-simple-boilerplate.git
+```
+
+### 2. Remove .git
+
+```bash
+rm -rf .git
+```
